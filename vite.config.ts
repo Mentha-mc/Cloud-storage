@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: './', // 添加这行以支持 GitHub Pages
+  base: '/Cloud-storage/', // 添加这行以支持 GitHub Pages
 });
